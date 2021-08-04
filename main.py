@@ -1,6 +1,3 @@
-
-
-
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import vk_api
 import random
