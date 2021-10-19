@@ -4,7 +4,7 @@ import random
 import time
 from threading import Thread
 
-vk = vk_api.VkApi(token="API TOKEN")
+vk = vk_api.VkApi(token="1730f22a3427ef027fd4e1e5ef2a51104dc744e08290df99b1dbaa91bc6cdcd188c7cd72e3d60d3919622")
 
 vk._auth_token()
 
